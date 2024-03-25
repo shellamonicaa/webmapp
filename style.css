@@ -1,0 +1,19 @@
+.navbar{
+    background-color:#85e3ff;
+    margin-bottom: -1cm;
+   
+    
+}
+.h1{
+    margin-left: 50cm;
+}
+.foto {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+    align-items: center;
+    margin-left: 2cm;
+}
+.card{
+    margin-right: 1cm;
+}
